@@ -1,0 +1,36 @@
+body {
+  background-image: url("wallpapersden.com_kyojuro-rengoku-and-tanjiro-kamado-4k-demon-slayer_1920x1200.jpg");
+  background-repeat: no-repeat;
+}
+
+@font-face {
+  font-family: myFirstFont;
+  src: url(mangati.ttf);
+}
+
+h1 {
+  display: table;
+  margin: 0px auto 0px auto;
+  padding: 5px;
+  font-family: myFirstFont;
+  color:rgb(159, 6, 6)
+  
+}
+
+p {
+  font-family: myFirstFont;
+  display: table;
+  margin: 0px auto 0px auto;
+  padding: 50px;
+  font-size: 15px;
+  color: #d6cfcf;
+}
+
+a {
+  color:#3a0000
+
+}
+
+p {
+  background-color: grey
+}
