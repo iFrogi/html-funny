@@ -1,0 +1,171 @@
+@font-face {
+  font-family: myFirstFont;
+  src: url(PLAYFUL_ALPHABET_demo.otf);
+}
+@font-face {
+  font-family: mySecondFont;
+  src: url(MAROLA__.TTF);
+}
+
+img {
+  display: table;
+  margin: 0px auto 0px auto;
+  padding: 5px;
+}
+div {
+  display: table;
+  margin: 0px auto 0px auto;
+  padding: 1px;
+  float: right;
+
+}
+h1 {
+  display: table;
+  margin: 0px auto 0px auto;
+  padding: 5px;
+  font-family: myFirstFont;
+  color:rgb(247, 247, 247)
+  
+}
+
+audio { 
+  display: table;
+  margin: 3px auto 3px auto;
+  padding: 1px;
+  float: left;
+
+}
+
+p {
+  display: table;
+  margin: 0px auto 0px auto;
+  padding: 5px;
+  float: center;
+  font-size: 13pt;
+  font-family: mySecondFont;
+  color:rgb(145, 145, 145)
+}
+
+
+h2 {
+  display: table;
+  margin: 0px auto 0px auto;
+  padding: 5px;
+  font-size: 20pt;
+  font-family: myFirstFont;
+  color:rgb(145, 145, 145)
+
+  
+}
+
+h3 {
+  display: table;
+  margin: 0px auto 0px auto;
+  padding: 5px;
+  font-size:  20pt;
+  font-family: myFirstFont;
+  color:rgb(145, 145, 145)
+  
+  
+}
+
+h4 {
+  display: table;
+  margin: 0px auto 0px auto;
+  padding: 5px;
+  font-size: 20pt;
+  font-family: myFirstFont;
+  color:rgb(145, 145, 145)
+  
+  
+}
+
+h5 {
+  display: table;
+  margin: 0px auto 0px auto;
+  padding: 5px;
+  font-size: 20pt;
+  font-family: myFirstFont;
+  color:rgb(145, 145, 145)
+
+  
+}
+
+
+h6 {
+  display: table;
+  margin: 0px auto 0px auto;
+  padding: 5px;
+  font-size: 20pt;
+  font-family: myFirstFont;
+  color:rgb(145, 145, 145)
+
+  
+}
+
+.h7{
+  display: table;
+  margin: 0px auto 0px auto;
+  padding: 5px;
+  font-size: 20pt;
+  font-family: myFirstFont;
+  color:rgb(145, 145, 145)
+}
+
+
+
+
+.h8{
+  display: table;
+  margin: 0px auto 0px auto;
+  padding: 5px;
+  font-size: 20pt;
+  font-family: myFirstFont;
+  color:rgb(145, 145, 145)
+}
+
+.h9{
+  display: table;
+  margin: 0px auto 0px auto;
+  padding: 5px;
+  font-size: 20pt;
+  font-family: myFirstFont;
+  color:rgb(145, 145, 145)
+}
+
+.h10{
+  display: table;
+  margin: 0px auto 0px auto;
+  padding: 5px;
+  font-size: 20pt;
+  font-family: myFirstFont;
+  color:rgb(145, 145, 145)
+}
+
+
+.h11{
+  display: table;
+  margin: 0px auto 0px auto;
+  padding: 5px;
+  font-size: 20pt;
+  font-family: myFirstFont;
+  color:rgb(145, 145, 145)
+}
+body {
+
+  background: linear-gradient(-45deg, #00f510, #000000, #2e9a00, #1e1f1e);
+  background-size: 400% 400%;
+  animation: gradient 15s ease infinite;
+  height: 100vh;
+}
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
